@@ -1,0 +1,10 @@
+{
+    employees: [
+      {
+        "id": "93050968",
+        "fecChec": "2019-12-18",
+        "hrChec": "18:35",
+        "typeCheckout": ""
+      }
+    ]
+}
