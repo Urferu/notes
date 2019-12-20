@@ -2,8 +2,7 @@
     "employees": [
       {
         "id": "93050968",
-        "fecChec": "2019-12-18",
-        "hrChec": "18:40",
+        "tokenCheck": "1",
         "typeCheckout": "salida"
       }
     ]
