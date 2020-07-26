@@ -1,10 +1,11 @@
-{"directories": [
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=bases","title":"Juegos"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=bases_temp","title":"Juegos_Temporales"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=bases_xci","title":"JuegosXCI"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=updates","title":"Actualizaciones"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=updates_temp","title":"Actualizaciones_Temporales"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=dlcs","title":"Dlc's"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=dlcs_temp","title":"Dlc's_Temporales"},
-  {"url":"http://urferushop.freevar.com/tinfoil/?type=urferushopclient","title":"Bienvenida"}
+{
+  "directories": [
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=bases","title":"Juegos"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=bases_temp","title":"Juegos_Temporales"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=bases_xci","title":"JuegosXCI"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=updates","title":"Actualizaciones"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=updates_temp","title":"Actualizaciones_Temporales"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=dlcs","title":"Dlc's"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=dlcs_temp","title":"Dlc's_Temporales"},
+    {"url":"http://urferushop.freevar.com/tinfoil/?type=urferushopclient","title":"Bienvenida"}
 ]}
